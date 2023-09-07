@@ -1,0 +1,32 @@
+[
+  {
+    "Classification": "yarn-env",
+    "Properties": {},
+    "Configurations": [
+      {
+        "Classification": "export",
+        "Properties": {
+          "SPARK_VERSION": "3.3"
+        }
+      }
+    ]
+  },
+  {
+    "Classification": "spark-defaults",
+    "Properties": {
+      "spark.yarn.appMasterEnv.SPARK_VERSION": "3.3"
+    }
+  },
+  {
+    "Classification": "spark-env",
+    "Properties": {},
+    "Configurations": [
+      {
+        "Classification": "export",
+        "Properties": {
+          "SPARK_VERSION": "3.3"
+        }
+      }
+    ]
+  }
+]
