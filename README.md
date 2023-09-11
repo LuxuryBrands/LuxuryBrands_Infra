@@ -1,5 +1,6 @@
 # LuxuryBrands_Infra
-terraform 및 서비스 별 설정 파일 저장소
+terraform 및 서비스 별 설정 파일 저장소 [[프로젝트 전체보기]](https://github.com/LuxuryBrands)
+
 
 ## 1. Infrastructure Diagram
 ![diagram.png](diagram.png)
